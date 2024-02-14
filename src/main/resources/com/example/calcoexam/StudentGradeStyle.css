@@ -1,0 +1,26 @@
+/*.root {*/
+/*    -fx-background-color: #222;*/
+/*    -fx-background-radius: 28;*/
+/*}*/
+
+.root {
+    -fx-background-color: linear-gradient(to bottom right, #FF7F50, #6A5ACD);
+    /*-fx-background-radius: 15 15 25 25;*/
+}
+
+.highlight {
+    -fx-background-color: #00000025;
+    -fx-background-radius: 15;
+}
+
+
+
+
+.children {
+    -fx-alignment: center;
+    -fx-padding: 20;
+}
+.anchor-pane {
+    /*-fx-background-color: #ffffff;*/
+    -fx-padding: 100px;
+}
